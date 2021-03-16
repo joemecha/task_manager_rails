@@ -1,24 +1,6 @@
-# README
+# Rails Tutorial Exercise: Task Manager
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Directions found at: https://github.com/turingschool-examples/task_manager_rails/blob/master/README.md
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+---
+Completed on 2021-03-16
