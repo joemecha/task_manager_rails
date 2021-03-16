@@ -1,0 +1,9 @@
+# app/views/tasks/show.html.erb
+
+<a href="/tasks">Task Index</a>
+
+<h1 style="font-family: Roboto"><%= @task.title %></h1>
+
+<p style="font-family: Roboto"><%= @task.description %></p>
+
+<a href="/tasks/<%= @task.id %>/edit" style="font-family: Roboto">Edit</a>
